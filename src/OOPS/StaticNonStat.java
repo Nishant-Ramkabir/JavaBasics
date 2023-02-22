@@ -24,8 +24,7 @@ public class StaticNonStat {
 		
 		//Can we access static method with object reference- yes but with warning
 		o.sum();
-		
-		
+			
 
 	}
 	
