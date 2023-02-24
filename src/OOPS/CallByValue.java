@@ -15,6 +15,7 @@ public class CallByValue {
 		
 		a.p=20;
 		a.q=30;
+		//call by reference
 		a.swap(a);
 		System.out.println(a.p+"  "+a.q);
 			
