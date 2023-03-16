@@ -20,6 +20,8 @@ public class PrimeN {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Number 13 is Prime "+prime(13));
+		System.out.println("Number 17 is Prime "+prime(17));
+		System.out.println("Number 12 is Prime "+prime(12));
 		
 		
 	}
